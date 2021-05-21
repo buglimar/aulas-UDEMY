@@ -6,3 +6,4 @@ console.log("sentença de códico");
     console.log("Mundo"); // Padrão o curso
   }
 }
+ 
