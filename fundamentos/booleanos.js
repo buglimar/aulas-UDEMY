@@ -29,7 +29,7 @@ console.log('para finalizar...')
 console.log(!!(''|| null || 0 || ' ' ))
 console.log((''|| null || 0 || '1,2,3 ' ))
 
-let nome = ''
+let nome = 'Lucas'
 console.log(nome || 'desconhecido')
 
 
